@@ -154,3 +154,6 @@ This UML class diagram helps stakeholders understand how the Ayurvedic Managemen
 | +generateInvoice()     |
 | +processPayment()      |
 +------------------------+
+
+![Uploading 17446904086328450501393065156755.png…]()
+
